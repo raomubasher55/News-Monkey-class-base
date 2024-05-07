@@ -1,0 +1,1307 @@
+{
+    //https://newsapi.org/v2/everything?q=sports&apiKey=df04a98686d64069910400b1f5d89c6d
+    "status": "ok",
+    "totalResults": 38399,
+    "articles": [
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "Mariella Moon",
+            "title": "FuboTV accuses Disney, Fox and Warner Bros. of antitrust practices over joint streaming service",
+            "description": "FuboTV, a streaming platform dedicated to live sports, has filed an antitrust lawsuit against Disney, Fox and Warner Bros. Discovery, accusing the companies of staging \"a years-long campaign\" to hamper its business. The company's lawsuit comes shortly Disney-…",
+            "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_03c89ec0-3401-4e53-8be7-8d8d08634c6c",
+            "urlToImage": "https://www.digitaltrends.com/wp-content/uploads/2024/02/Mr.-and-Mrs.-Smith-e1708350712564.jpg?resize=1200%2C630&p=1",
+            "publishedAt": "2024-02-21T06:41:40Z",
+            "content": "Si vous cliquez sur « Tout accepter », nos partenaires (y compris 241 qui font partie du Cadre de transparence et de consentement dIAB) et nous utiliserons également des témoins et vos données person… [+982 chars]"
+        },
+        {
+            "source": {
+                "id": "wired",
+                "name": "Wired"
+            },
+            "author": "Boone Ashworth",
+            "title": "It’s Apparently Easy to Crack the Apple Vision Pro's Front Screen",
+            "description": "Plus: Apple launches a Sports app for the iPhone, Sony is testing its PlayStation VR headset on PC games, and Hamilton has a fancy new watch to celebrate the arrival of Dune: Part Two.",
+            "url": "https://www.wired.com/story/apple-vision-pro-crack-in-front-screen/",
+            "urlToImage": "https://media.wired.com/photos/65d93d967507e5f7e3e9be3b/191:100/w_1280,c_limit/Apple-Vision-Pro-Cracked-Screen-02-Gear.jpg",
+            "publishedAt": "2024-02-24T14:30:00Z",
+            "content": "Apples mixed-reality headset is selling well, but its embroiled in a new mystery thats proving tough to crack.\r\nAs first reported by MacRumors, some customers have discovered a mysterious crack appea… [+4569 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": null,
+            "title": "Bahrain Grand Prix first practice - radio & text",
+            "description": "Follow live text and BBC Radio 5 Sports Extra commentary from first and second practice at the Bahrain Grand Prix.",
+            "url": "https://www.bbc.co.uk/sport/live/formula1/67915010",
+            "urlToImage": "https:////m.files.bbci.co.uk/modules/bbc-morph-sport-seo-meta/1.23.3/images/bbc-sport-logo.png",
+            "publishedAt": "2024-02-28T09:30:11Z",
+            "content": "Red Bull's team principal Christian Horner has been cleared following an internal investigation into his behaviour towards a female colleague.\r\nAllegations of inappropriate and controlling behaviour … [+851 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": null,
+            "title": "Listen: Indian Wells second round - Murray v Rublev",
+            "description": "Listen to BBC Radio 5 Sports Extra commentary as Andy Murray takes on Andrey Rublev in the second round of the Indian Wells Open.",
+            "url": "https://www.bbc.co.uk/sport/live/tennis/68513582",
+            "urlToImage": "https:////m.files.bbci.co.uk/modules/bbc-morph-sport-seo-meta/1.23.3/images/bbc-sport-logo.png",
+            "publishedAt": "2024-03-08T13:28:23Z",
+            "content": "You need one to watch live TV on any channel or device, and BBC programmes on iPlayer. Its the law.\r\nFind out more"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "Kris Holt",
+            "title": "The real fight isn't Tyson vs. Paul — it's Netflix vs. its livestreaming infrastructure",
+            "description": "Netflix\r\n has been experimenting with live sports over the last few months with golf\r\n and tennis exhibition events. The company has announced\r\n the biggest test for its livestreaming capabilities to date: a boxing match between YouTuber (and pro boxer) Jake …",
+            "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_5a397a14-5e12-4680-86cc-6b91b9c3facb",
+            "urlToImage": null,
+            "publishedAt": "2024-03-07T19:09:48Z",
+            "content": "Si vous cliquez sur « Tout accepter », nos partenaires (y compris 241 qui font partie du Cadre de transparence et de consentement dIAB) et nous utiliserons également des témoins et vos données person… [+982 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "ReadWrite"
+            },
+            "author": "Justin Colombo",
+            "title": "Professional Sports Bettors – How to Wager Like a Sports Betting Pro",
+            "description": "Professional sports bettors have been able to do something most of us dream about. They all turned a hobby into […]\nThe post Professional Sports Bettors – How to Wager Like a Sports Betting Pro appeared first on ReadWrite.",
+            "url": "https://readwrite.com/gambling/guides/professional-sports-bettors/",
+            "urlToImage": "https://readwrite.com/wp-content/uploads/2024/02/richard-boyle-wu7oy6XhAoU-unsplash-1-scaled.jpg",
+            "publishedAt": "2024-02-20T11:42:48Z",
+            "content": "Professional sports bettors have been able to do something most of us dream about. They all turned a hobby into an extremely lucrative career. But, with multi-million dollar wins also comes the dange… [+19328 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Peter Kafka",
+            "title": "Who's going to pay $50 a month for a sports streamer that doesn't have all the sports?",
+            "description": "If you're a big enough sports fan that you want to pay for streaming TV, don't you also want all of the sports on streaming TV, especially the NFL?",
+            "url": "https://www.businessinsider.com/sports-streamer-new-nfl-games-who-will-subscribe-lachlan-murdoch-2024-3",
+            "urlToImage": "https://i.insider.com/65e63d41ce7f1785b2e62580?width=1200&format=jpeg",
+            "publishedAt": "2024-03-04T21:54:39Z",
+            "content": "The new sports streamer won't have every NFL game, some of which are only on CBS or Amazon. Will that stop some people from subscribing?Ryan Kang/Getty Images\r\n<ul><li>We got another hint the new spo… [+4535 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "MacRumors"
+            },
+            "author": "Hartley Charlton",
+            "title": "'Apple Sports' App Announced With Personalized Scoreboards and More",
+            "description": "Apple today announced \"Apple Sports,\" a free app that provides real-time statistics, scores, and more.\n\n\n\n\n\nApple Sports features a personalized experience with a user's favorite leagues, tournaments, teams shown on an easy-to-read scoreboard. Users can navig…",
+            "url": "https://www.macrumors.com/2024/02/21/apple-sports-app-announced/",
+            "urlToImage": "https://images.macrumors.com/t/24EUIBKjWIbL4h7Cgj-9twCURaI=/1961x/article-new/2024/02/Apple-Sports-App-Preview-Feature.jpg",
+            "publishedAt": "2024-02-21T14:16:28Z",
+            "content": "Apple today announced \"Apple Sports,\" a new free app that provides real-time statistics, scores, and more.\r\nApple Sports features a personalized experience with a user's favorite leagues, tournaments… [+1002 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "MacRumors"
+            },
+            "author": "Juli Clover",
+            "title": "Hands-On With the New 'Apple Sports' App",
+            "description": "Apple today released Apple Sports, a brand new app that's designed to be a dedicated hub for sports fans to find real-time statistics, scores, lineup details, live betting odds, and more. This is Apple's first new app in some time, so we thought we'd give it …",
+            "url": "https://www.macrumors.com/2024/02/21/apple-sports-app-hands-on/",
+            "urlToImage": "https://images.macrumors.com/t/W7PZOR2chHyva-uOvf1I1ZYUeUw=/1600x/https://img.youtube.com/vi/VEC9cq8WdSU/maxresdefault.jpg",
+            "publishedAt": "2024-02-21T17:21:13Z",
+            "content": "Apple today released Apple Sports, a brand new app that's designed to be a dedicated hub for sports fans to find real-time statistics, scores, lineup details, live betting odds, and more. This is App… [+890 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "MacRumors"
+            },
+            "author": "Joe Rossignol",
+            "title": "Apple Sports App Updated for MLB and NCAA's March Madness",
+            "description": "The new Apple Sports app for the iPhone received its first update today with optimizations for the MLB and NCAA's March Madness. If you are a fan of these leagues, make sure to update the app to ensure that complete data is available.\n\n\n\n\n\nThe full release no…",
+            "url": "https://www.macrumors.com/2024/03/14/apple-sports-app-mlb-and-ncaa-march-madness/",
+            "urlToImage": "https://images.macrumors.com/t/24EUIBKjWIbL4h7Cgj-9twCURaI=/1961x/article-new/2024/02/Apple-Sports-App-Preview-Feature.jpg",
+            "publishedAt": "2024-03-14T13:01:17Z",
+            "content": "The new Apple Sports app for the iPhone received its first update today with optimizations for the MLB and NCAA's March Madness. If you are a fan of these leagues, make sure to update the app to ensu… [+740 chars]"
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "David Pierce",
+            "title": "The AIs are officially out of control",
+            "description": "Google Gemini is running into issues with the diversity of its generated images, ChatGPT is spewing total nonsense, and more on this episode of The Vergecast.",
+            "url": "https://www.theverge.com/2024/2/23/24080579/gemini-chatgpt-problems-images-reddit-ipo-vergecast",
+            "urlToImage": "https://cdn.vox-cdn.com/thumbor/HLVFtw6CsqbdyR2T5JorY_PPhZ0=/0x0:3000x2000/1200x628/filters:focal(1500x1000:1501x1001)/cdn.vox-cdn.com/uploads/chorus_asset/file/25300554/VST_0223_site.jpg",
+            "publishedAt": "2024-02-23T14:31:28Z",
+            "content": "Image: Alex Parkin / The Verge\r\n\n \n\n When you ask an AI bot for an image of the Founding Fathers or a group of German soldiers from 1943, you expect... something. You probably don’t expect what Googl… [+2292 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "MacRumors"
+            },
+            "author": "MacRumors Staff",
+            "title": "Top Stories: Apple Sports App, iMessage Security Upgrade, and More",
+            "description": "This week saw the surprise release of a new Apple Sports app for tracking sports scores across a number of leagues, while we learned more about features coming soon in iOS 17.4.\n\n\n\n\n\nWe also saw more rumors about AirPods updates coming later this year, and Ap…",
+            "url": "https://www.macrumors.com/2024/02/24/top-stories-apple-sports-app/",
+            "urlToImage": "https://images.macrumors.com/t/AD_wJVyW5bHlD09FJWuntGAFfLs=/1600x/article-new/2024/02/top-stories-24feb2024.jpg",
+            "publishedAt": "2024-02-24T14:00:00Z",
+            "content": "This week saw the surprise release of a new Apple Sports app for tracking sports scores across a number of leagues, while we learned more about features coming soon in iOS 17.4.\r\nWe also saw more rum… [+4017 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "ReadWrite"
+            },
+            "author": "Sophie Atkinson",
+            "title": "North Carolina officially launches online sports betting",
+            "description": "Online sports betting is now made possible in North Carolina, as it was made legal as of noon ET on… Continue reading North Carolina officially launches online sports betting\nThe post North Carolina officially launches online sports betting appeared first on …",
+            "url": "https://readwrite.com/north-carolina-officially-launches-online-sports-betting/",
+            "urlToImage": "https://readwrite.com/wp-content/uploads/2024/03/daniel-weiss-aj2Os9mYgJU-unsplash.jpg",
+            "publishedAt": "2024-03-12T12:31:24Z",
+            "content": "Online sports betting is now made possible in North Carolina, as it was made legal as of noon ET on Monday (Mar. 11)\r\nThe bill was passed last summer to allow people located in the state, who are ove… [+2551 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "ReadWrite"
+            },
+            "author": "Brian-Damien Morgan",
+            "title": "Kansas City Chiefs consider sports wagering implications",
+            "description": "Super Bowl winning team the Kansas City Chiefs would consider the impact that gambling legalization would have on the team’s… Continue reading Kansas City Chiefs consider sports wagering implications\nThe post Kansas City Chiefs consider sports wagering implic…",
+            "url": "https://readwrite.com/kansas-city-chiefs-consider-sports-wagering-implications/",
+            "urlToImage": "https://readwrite.com/wp-content/uploads/2024/03/caojicquyzq9uf8auwgs.jpg",
+            "publishedAt": "2024-03-15T18:27:51Z",
+            "content": "Super Bowl winning team the Kansas City Chiefs would consider the impact that gambling legalization would have on the team’s assets and branding options.\r\nArrowhead Stadium, the home of the Chiefs, h… [+2388 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Emily Stewart",
+            "title": "Turns out sports gambling was a gateway drug",
+            "description": "Sports gambling companies like DraftKings and FanDuel are expanding way beyond football and basketball into online gambling and the lottery.",
+            "url": "https://www.businessinsider.com/sports-betting-apps-online-gambling-lottery-draftkings-fanduel-2024-3",
+            "urlToImage": "https://i.insider.com/65e2063b6080194819fba36a?width=1200&format=jpeg",
+            "publishedAt": "2024-03-03T11:57:12Z",
+            "content": "Sports betting apps are betting that Americans want to gamble on more than just sports.Getty Images; Alyssa Powell/BI\r\nDraftKings would love it if you bet on the Knicks game. Oh, and while you're at … [+9047 chars]"
+        },
+        {
+            "source": {
+                "id": "engadget",
+                "name": "Engadget"
+            },
+            "author": "Will Shanklin",
+            "title": "PS Plus’ latest free games include Resident Evil 3, Midnight Suns and NBA 2K24",
+            "description": "On Wednesday, Sony unveiled the latest catalog of games for PlayStation Plus Extra and Premium subscribers. The latest batch of titles includes the Resident Evil 3 remake, Marvel’s Midnight Suns and NBA 2K24 (among others). You can play the games for free sta…",
+            "url": "https://www.engadget.com/ps-plus-latest-free-games-include-resident-evil-3-midnight-suns-and-nba-2k24-181904818.html",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/hqICCyK3YzYx4PFpuF3TdA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://s.yimg.com/os/creatr-uploaded-images/2024-03/a67368d0-e162-11ee-bfbd-3198f75c162c",
+            "publishedAt": "2024-03-13T18:19:04Z",
+            "content": "On Wednesday, Sony unveiled the latest catalog of games for PlayStation Plus Extra and Premium subscribers. The latest batch of titles includes the Resident Evil 3 remake, Marvels Midnight Suns and N… [+1570 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "ReadWrite"
+            },
+            "author": "Graeme Hanna",
+            "title": "US sports betting industry revenues soar in 2023, 45% year on year increase",
+            "description": "The regulated US sports betting industry posted $10.9 billion in revenue last year, contributing to an all-time high of $14.4 […]\nThe post US sports betting industry revenues soar in 2023, 45% year on year increase appeared first on ReadWrite.",
+            "url": "https://readwrite.com/us-sports-betting-industry-revenues-soar-in-2023-45-year-on-year-increase/",
+            "urlToImage": "https://readwrite.com/wp-content/uploads/2024/02/pexels-pixabay-163449.jpg",
+            "publishedAt": "2024-02-21T16:53:55Z",
+            "content": "The regulated US sports betting industry posted $10.9 billion in revenue last year, contributing to an all-time high of $14.4 billion in state and local gaming taxes.\r\nFor 2023, the $10.9bn figure re… [+2414 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "ReadWrite"
+            },
+            "author": "Justin Colombo",
+            "title": "Bankroll Management for Sports Betting – Everything You Need to Know",
+            "description": "Bankroll management is one of the most important tenets of sports betting, especially in an age where online gambling is […]\nThe post Bankroll Management for Sports Betting – Everything You Need to Know appeared first on ReadWrite.",
+            "url": "https://readwrite.com/gambling/guide/sports-betting-bankroll-management/",
+            "urlToImage": "https://readwrite.com/wp-content/uploads/2024/02/Bankroll-Managament-Sports-Betting-scaled.jpg",
+            "publishedAt": "2024-02-26T16:04:59Z",
+            "content": "Bankroll management is one of the most important tenets of sports betting, especially in an age where online gambling is prevalent. In the digital realm, online sportsbooks are constantly at your fin… [+16986 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "ReadWrite"
+            },
+            "author": "Justin Colombo",
+            "title": "Sports Betting Strategy – The Best Betting Strategies Explained",
+            "description": "Having a sports betting strategy is key to minimizing your losses and making the most of your starting bankroll. However, […]\nThe post Sports Betting Strategy – The Best Betting Strategies Explained appeared first on ReadWrite.",
+            "url": "https://readwrite.com/gambling/guides/sports-betting-strategy/",
+            "urlToImage": "https://readwrite.com/wp-content/uploads/2024/02/Sports-Betting-Strategy-scaled.jpg",
+            "publishedAt": "2024-02-21T08:35:54Z",
+            "content": "Having a sports betting strategy is key to minimizing your losses and making the most of your starting bankroll. However, it can be hard to create an effective strategy given the variables involved i… [+23943 chars]"
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Emma Roth",
+            "title": "Elon Musk cancels Don Lemon’s show on X after a ‘tense’ interview",
+            "description": "Don Lemon will no longer have an exclusive series on X. The former CNN host says Musk canceled the deal “hours after” he interviewed the billionaire.",
+            "url": "https://www.theverge.com/2024/3/13/24099677/don-lemon-elon-musk-x-canceled",
+            "urlToImage": "https://cdn.vox-cdn.com/thumbor/8VUWVAE1mK1cTVZhMDzEm9lujZM=/0x0:6000x4000/1200x628/filters:focal(3000x2000:3001x2001)/cdn.vox-cdn.com/uploads/chorus_asset/file/25334280/1485742937.jpg",
+            "publishedAt": "2024-03-13T18:03:38Z",
+            "content": "Elon Musk cancels Don Lemons show on X after a tense interview\r\nElon Musk cancels Don Lemons show on X after a tense interview\r\n / The former CNN host says Elon Musk ended the partnership after inter… [+2452 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Jacob Zinkula",
+            "title": "9 professional athletes who make more money from endorsement deals than playing sports",
+            "description": "Nine of the world's highest-paid athletes in 2023 made more money from endorsement deals than playing their sports.",
+            "url": "https://www.businessinsider.com/how-much-professional-athletes-make-from-endorsement-deals-sponsorship-basketball-2024-2",
+            "urlToImage": "https://i.insider.com/65d65c3fa3bd891424f90aff?width=1200&format=jpeg",
+            "publishedAt": "2024-02-24T11:03:01Z",
+            "content": "Stephen Curry (Left), LeBron James (Center), Shohei Ohtani (Right)Tony Gutierrez/AP Images (Left), Mark J. Terrill/AP Images (Center), Robert Gauthier/Los Angeles Times via Getty Images (Right)\r\n<ul>… [+5472 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "MacRumors"
+            },
+            "author": "Hartley Charlton",
+            "title": "The MacRumors Show: Brian Tong Talks Vision Pro and Apple Sports",
+            "description": "YouTuber Brian Tong joins us on this week's episode of The MacRumors Show to talk about the Vision Pro, the new Apple Sports app, enhanced iMessage security, and more.\n\n\n\n\r\nSubscribe to The MacRumors Show YouTube channel for more videos\n\nBrian shares his in-d…",
+            "url": "https://www.macrumors.com/2024/02/23/the-macrumors-show-brian-tong-vision-pro/",
+            "urlToImage": "https://images.macrumors.com/t/yyaYi1OHN6Nd8Fm4s5g18GCVR6U=/1600x/https://img.youtube.com/vi/083TllpHNSE/maxresdefault.jpg",
+            "publishedAt": "2024-02-23T17:16:24Z",
+            "content": "YouTuber Brian Tong joins us on this week's episode of The MacRumors Show to talk about the Vision Pro, the new Apple Sports app, enhanced iMessage security, and more.\r\nBrian shares his in-depth thou… [+2061 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "NPR"
+            },
+            "author": "Ayana Archie",
+            "title": "University of Georgia says it cancels classes after a woman is found dead on campus",
+            "description": "The person was found unconscious and with injuries near the university's intramural sports field. They were a student at another university, though police have not yet said where.",
+            "url": "https://www.npr.org/2024/02/23/1233354257/university-of-georgia-death-student",
+            "urlToImage": "https://media.npr.org/assets/img/2024/02/23/ap24053789756512_wide-69659f507ee06388202aa9ab1ceac190fc0fd0f6-s1400-c100.jpg",
+            "publishedAt": "2024-02-23T08:49:37Z",
+            "content": "A sign for the University of Georgia is seen, May 28, 2004, in Athens, Ga. A woman was found dead Thursday, Feb. 22, 2024, on the campus of the University of Georgia after a friend told police she ha… [+1926 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Tiara White",
+            "title": "The NFL is gearing up to change its ownership rules in what could be a massive win for Wall Street",
+            "description": "The NFL is considering opening the door to big investors buying teams. Here is what this means for bankers, investors, sports fans, and more.",
+            "url": "https://www.businessinsider.com/nfl-ownership-rules-change-big-win-wall-street-private-equity-2024-2",
+            "urlToImage": "https://i.insider.com/65e094256080194819fb24a5?width=1200&format=jpeg",
+            "publishedAt": "2024-02-29T18:26:51Z",
+            "content": "Team owners will meet in March to discuss private equity investmentsSOPA Images/Getty Images\r\n<ul><li>Team owners will meet at the annual league meeting in March to discuss private equity.</li><li>Th… [+7681 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Sarah Jackson",
+            "title": "73-year-old billionaire Richard Branson's daily routine starts with an ice bath and a game of tennis",
+            "description": "Virgin Group founder Richard Branson's daily routine is chock full of sports, from tennis to kite-surfing, that all take place on his private island.",
+            "url": "https://www.businessinsider.com/richard-branson-daily-routine-schedule",
+            "urlToImage": "https://i.insider.com/65db778f6080194819fa037a?width=1200&format=jpeg",
+            "publishedAt": "2024-02-25T17:19:41Z",
+            "content": "Whether he's hitting the tennis court or going kite-surfing, Virgin Group founder Richard Branson keeps very active throughout the day.Nur Photo/Getty Images\r\n<ul><li>Richard Branson is the 73-year-o… [+4905 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Peter Kafka",
+            "title": "This chart shows why the new sports streamer is going to cost $50",
+            "description": "The new sports streamer will have to pay for the networks it carries, like ESPN, ABC, and Fox. We've got the chart that shows just how much.",
+            "url": "https://www.businessinsider.com/sports-streamer-disney-warner-fox-espn-how-much-streaming-cost-2024-2",
+            "urlToImage": "https://i.insider.com/65d675e9a610a9069d5b166f?width=1200&format=jpeg",
+            "publishedAt": "2024-02-22T10:00:01Z",
+            "content": "Subscribers will probably have to pony up around $50 a month for the new sports streamer.Focus On Sport/Getty Images\r\nWe don't know a lot about the big sports streaming service that's supposed to lau… [+1957 chars]"
+        },
+        {
+            "source": {
+                "id": "ars-technica",
+                "name": "Ars Technica"
+            },
+            "author": "Scharon Harding",
+            "title": "Does Fubo’s antitrust lawsuit against ESPN, Fox, and WBD stand a chance?",
+            "description": "Fubo: Media giants' anticompetitive tactics already killed PS Vue, other streamers.",
+            "url": "https://arstechnica.com/tech-policy/2024/02/does-fubos-antitrust-lawsuit-against-espn-fox-and-wbd-stand-a-chance/",
+            "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/02/GettyImages-2021283844-760x380.jpg",
+            "publishedAt": "2024-02-22T17:56:39Z",
+            "content": "15\r\nFubo is suing Fox Corporation, The Walt Disney Company, and Warner Bros. Discovery (WBD) over their plans to launch a unified sports streaming app. Fubo, a live sports streaming service that has … [+3888 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "M25 closures in force amid gridlock fears",
+            "description": "Part of the M25 is shut for the first scheduled daytime closure of all lanes since opening in 1986.",
+            "url": "https://www.bbc.co.uk/news/uk-england-surrey-68577226",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/2353/production/_132934090_m25closure2.jpg",
+            "publishedAt": "2024-03-15T21:03:42Z",
+            "content": "A section of the M25 in Surrey has closed for the entire weekend amid fears that thousands of motorists will be stuck in gridlocked traffic. \r\nA five-mile stretch along both carriageways between junc… [+2279 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Android Central"
+            },
+            "author": "techkritiko@gmail.com (Jay Bonggolto)",
+            "title": "Paramount Plus and Peacock might be the next streaming platforms to merge",
+            "description": "Two streaming services, Paramount+ and Peacock, might be joining forces to survive the streaming war.",
+            "url": "https://www.androidcentral.com/streaming-tv/paramount-plus-and-peacock-considering-merger",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/g3Hq9jboknCFbo4igJ6x3U-1200-80.jpg",
+            "publishedAt": "2024-02-18T15:21:36Z",
+            "content": "<ul><li>Paramount Global and Comcast are in talks about a potential joint venture or partnership in the streaming industry.</li><li>Comcast, known for its live sports broadcasts, and Paramount Plus m… [+2467 chars]"
+        },
+        {
+            "source": {
+                "id": "espn",
+                "name": "ESPN"
+            },
+            "author": "Doug Greenberg",
+            "title": "Sports betting hits record $11B in 2023 revenue",
+            "description": "The American Gaming Association reported Tuesday a record $10.92 billion in 2023 for the sports betting industry, up 44.5% from 2022.",
+            "url": "https://www.espn.com/espn/betting/story/_/id/39563784/sports-betting-industry-posts-record-11b-2023-revenue",
+            "urlToImage": "https://a.espncdn.com/combiner/i?img=%2Fphoto%2F2023%2F0608%2Fr1184104_1296x729_16%2D9.jpg",
+            "publishedAt": "2024-02-20T18:57:43Z",
+            "content": "Feb 20, 2024, 01:53 PM ET\r\nAs the American sports betting industry continues to expand, it has reached a high water mark, posting a record $10.92 billion in revenue for 2023, according to the America… [+2977 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Apple Newsroom"
+            },
+            "author": "John Gruber",
+            "title": "Apple Sports and Lock Screen Live Activities",
+            "description": "Use the Apple TV app on iPhone to browse by sport or league, watch games, follow your favorite teams with My Sports, and get live scores and notifications for close games.",
+            "url": "https://support.apple.com/en-is/guide/iphone/iph9ac289c4d/ios",
+            "urlToImage": null,
+            "publishedAt": "2024-02-23T01:19:38Z",
+            "content": "Yesterday, in my piece on the new Apple Sports app, I wrote:\n\n\n Live activities for your lock screen are available, but Sports \ndoesn’t — yet — offer any Home Screen widgets. \r\n\n\n\nA bunch of readers … [+579 chars]"
+        },
+        {
+            "source": {
+                "id": "espn",
+                "name": "ESPN"
+            },
+            "author": "Adam Rittenberg",
+            "title": "Over 10K opt in to EA Sports College Football 25",
+            "description": "More than 10,000 college football players have already opted in for EA Sports College Football 25, the new EA Sports video game set to launch this summer, which will feature the athletes and pay them through a name, image and likeness deal.",
+            "url": "https://www.espn.com/college-football/story/_/id/39651866/over-10000-players-opt-ea-sports-college-football-25",
+            "urlToImage": "https://a3.espncdn.com/combiner/i?img=%2Fphoto%2F2020%2F0921%2Fr749005_1296x729_16%2D9.jpg",
+            "publishedAt": "2024-03-04T15:11:11Z",
+            "content": "More than 10,000 college football players have already opted in for EA Sports College Football 25, the new EA Sports video game set to launch this summer, which will feature the athletes and pay them… [+2609 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Hipertextual"
+            },
+            "author": "Juan Carlos Figueroa",
+            "title": "Apple Sports: la nueva app para que puedas seguir tus partidos favoritos",
+            "description": "Apple acaba de lanzar una app gratuita para que puedas seguir tus partidos favoritos desde tu iPhone. Con Apple Sports puedes mantenerte al día de los resultados, estadísticas y otros detalles clave de las principales ligas deportivas en tiempo real. La aplic…",
+            "url": "http://hipertextual.com/2024/02/apple-lanza-una-nueva-app-sports-para-que-puedas-seguir-tus-partidos-favoritos",
+            "urlToImage": "https://imgs.hipertextual.com/wp-content/uploads/2024/02/apple-sports.jpg",
+            "publishedAt": "2024-02-21T15:17:44Z",
+            "content": "Apple acaba de lanzar una app gratuita para que puedas seguir tus partidos favoritos desde tu iPhone.Con Apple Sports puedes mantenerte al día de los resultados, estadísticas y otros detalles clave d… [+2606 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "ReadWrite"
+            },
+            "author": "Sophie Atkinson",
+            "title": "Gambling giant 888 to quit the US market",
+            "description": "In a time when the US is experiencing a sports betting boom, the gambling giant 888 has announced they’re set […]\nThe post Gambling giant 888 to quit the US market appeared first on ReadWrite.",
+            "url": "https://readwrite.com/gambling-giant-888-to-quit-the-us-market/",
+            "urlToImage": "https://readwrite.com/wp-content/uploads/2024/03/kEcjv2PJRniUxU4Xv8UjUw.png",
+            "publishedAt": "2024-03-06T14:01:45Z",
+            "content": "In a time when the US is experiencing a sports betting boom, the gambling giant 888 has announced theyre set to be leaving the market.\r\nIn an update from this morning (Mar. 6) on the London Stock Exc… [+1885 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "ReadWrite"
+            },
+            "author": "Brian-Damien Morgan",
+            "title": "EA offer $600 to college athletes to license their likeness in new game",
+            "description": "EA Sports is set to offer college athletes $600 for their name, image, and likeness (NIL) for the upcoming release […]\nThe post EA offer $600 to college athletes to license their likeness in new game appeared first on ReadWrite.",
+            "url": "https://readwrite.com/ea-offer-600-to-college-athletes-to-license-their-likeness-in-new-game/",
+            "urlToImage": "https://readwrite.com/wp-content/uploads/2024/02/EA-Sports-college-athletes.jpg",
+            "publishedAt": "2024-02-22T19:15:59Z",
+            "content": "EA Sports is set to offer college athletes $600 for their name, image, and likeness (NIL) for the upcoming release of EA College Football 25.\r\nThe deal, reported via ESPN\r\n, will allow the sports gam… [+3031 chars]"
+        },
+        {
+            "source": {
+                "id": "engadget",
+                "name": "Engadget"
+            },
+            "author": "Karissa Bell",
+            "title": "Google is reportedly paying publishers thousands of dollars to use its AI to write stories",
+            "description": "Google has been quietly striking deals with some publishers to use new generative AI tools to publish stories, according to a report\r\n in Adweek. The deals, reportedly worth tens of thousands of dollars a year, are apparently part of the Google News Initiativ…",
+            "url": "https://www.engadget.com/google-is-reportedly-paying-publishers-thousands-of-dollars-to-use-its-ai-to-write-stories-215943624.html",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/aZXm8vb3XgiiXmq56wFhVQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2024-02/b368d790-d5ba-11ee-9be7-f09229e128b1",
+            "publishedAt": "2024-02-27T21:59:43Z",
+            "content": "Google has been quietly striking deals with some publishers to use new generative AI tools to publish stories, according to a report\r\n in Adweek. The deals, reportedly worth tens of thousands of doll… [+2939 chars]"
+        },
+        {
+            "source": {
+                "id": "engadget",
+                "name": "Engadget"
+            },
+            "author": "Mat Smith",
+            "title": "The Morning After: Apple's car project may be dead",
+            "description": "After roughly a decade, multiple leadership changes and a regular spot in Apple rumor reports, the Apple Car project, internally known as Project Titan, could well be dead. A new report from Bloomberg’s Mark Gurman says Apple has officially canceled the car, …",
+            "url": "https://www.engadget.com/the-morning-after-apples-car-project-may-be-dead-121513763.html",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/Ooa2JTHA4bJP2XR8jzqY2w--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://s.yimg.com/os/creatr-uploaded-images/2024-01/3dd7d8a0-ba2b-11ee-be2f-6eb43959be6a",
+            "publishedAt": "2024-02-28T12:15:13Z",
+            "content": "After roughly a decade, multiple leadership changes and a regular spot in Apple rumor reports, the Apple Car project, internally known as Project Titan, could well be dead. A new report from Bloomber… [+3430 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Justin Carter",
+            "title": "FX's Grotesquerie Gives Ryan Murphy a New Horror Canvas",
+            "description": "Since 2009, Glee co-creator Ryan Murphy has had one foot in the horror door with FX’s American Horror Story. That series has since gone on for 12 seasons and birthed its own spinoff, while Murphy himself has been busier with other projects like Dahmer and The…",
+            "url": "https://gizmodo.com/ryan-murphy-grotesquerie-fx-1851284179",
+            "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/f3a9192a9d292b58ac37d846365a9812.jpg",
+            "publishedAt": "2024-02-24T17:25:00Z",
+            "content": "Since 2009, Glee co-creator Ryan Murphy has had one foot in the horror door with FXs American Horror Story. That series has since gone on for 12 seasons and birthed its own spinoff, while Murphy hims… [+1666 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNET"
+            },
+            "author": "Kevin Lynch",
+            "title": "Aston Villa vs. Tottenham Livestream: How to Watch English Premier League Soccer From Anywhere - CNET",
+            "description": "It's a potentially pivotal fixture in the battle for the top four.",
+            "url": "https://www.cnet.com/tech/services-and-software/aston-villa-vs-tottenham-livestream-how-to-watch-english-premier-league-soccer-from-anywhere/",
+            "urlToImage": "https://www.cnet.com/a/img/resize/cfa8dbc0d10e46b50494c17ff3a64d1d00723094/hub/2024/03/08/109f2a21-fc38-46fc-837b-7191e5be07cd/gettyimages-2039828882.jpg?auto=webp&fit=crop&height=675&width=1200",
+            "publishedAt": "2024-03-10T10:00:06Z",
+            "content": "Tottenham travel to fourth-placed Aston Villa on Sunday, knowing that a win will pull them to within 2 points of their opponents in the English Premier League table. \r\nSpurs had to come from behind w… [+5436 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "ReadWrite"
+            },
+            "author": "Sophie Atkinson",
+            "title": "Caesars renews partnership with NHL",
+            "description": "As the betting and entertainment business continues to boom in the US, Caesars Entertainment and the National Hockey League (NHL)… Continue reading Caesars renews partnership with NHL\nThe post Caesars renews partnership with NHL appeared first on ReadWrite.",
+            "url": "https://readwrite.com/caesars-renews-partnership-with-nhl/",
+            "urlToImage": "https://readwrite.com/wp-content/uploads/2024/03/otkmynBSUeFOG0N8eMM0w.png",
+            "publishedAt": "2024-03-13T12:20:07Z",
+            "content": "As the betting and entertainment business continues to boom in the US, Caesars Entertainment and the National Hockey League (NHL) announced an extension of their partnership.\r\nAnnounced through a pre… [+1810 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNET"
+            },
+            "author": "Kevin Lynch",
+            "title": "Arsenal vs. Brentford Livestream: How to Watch English Premier League Soccer From Anywhere - CNET",
+            "description": "The Gunners could go top of the table with a win against the Bees.",
+            "url": "https://www.cnet.com/tech/services-and-software/arsenal-vs-brentford-livestream-how-to-watch-english-premier-league-soccer-from-anywhere/",
+            "urlToImage": "https://www.cnet.com/a/img/resize/245718d6a235f70efffa2a629217fc4698c97640/hub/2024/03/08/9f69deed-ae35-4c18-a06b-76c6df642984/gettyimages-1818229229.jpg?auto=webp&fit=crop&height=675&width=1200",
+            "publishedAt": "2024-03-09T14:30:05Z",
+            "content": "In-form Arsenal host London rivals Brentford on Saturday, knowing that a win will send them top of the English Premier League. \r\nThe Gunners will be aiming to extend an impressive streak of seven str… [+5311 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNET"
+            },
+            "author": "Kevin Lynch",
+            "title": "Watch Champions League Soccer: Livestream Napoli vs. Barcelona From Anywhere - CNET",
+            "description": "Two heavyweight UCL sides go head-to-head in this round of 16 tie at the Stadio Diego Armando Maradona.",
+            "url": "https://www.cnet.com/tech/services-and-software/watch-champions-league-soccer-livestream-napoli-v-barcelona-from-anywhere/",
+            "urlToImage": "https://www.cnet.com/a/img/resize/8e11c1c024cdf1b686815aa32f72faab164f351c/hub/2024/02/21/6c1ea38b-8229-4414-9aa3-cb3b2cb16e31/gettyimages-1886889238.jpg?auto=webp&fit=crop&height=675&width=1200",
+            "publishedAt": "2024-02-21T17:30:40Z",
+            "content": "Two sides that have so far failed to impress this season face off in this intriguing last-16 tie between Napoli and Barcelona.\r\nBoth teams won their domestic leagues last term, but have suffered a se… [+11556 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Android Central"
+            },
+            "author": "charliewacholz@gmail.com (Charlie Wacholz)",
+            "title": "Why the Nintendo Wii could be reborn on the Meta Quest 3",
+            "description": "Between a surge in 2000s nostalgia and a need for mainstream attention, Meta's Quest 3 is a perfect platform to bring back the Wii era and its motion-controlled magic.",
+            "url": "https://www.androidcentral.com/gaming/virtual-reality/why-meta-quest-3-could-be-the-new-home-for-nintendo-wii-games",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/PcHaqr2CAU7qoditNKYYjA-1200-80.jpg",
+            "publishedAt": "2024-02-17T15:00:17Z",
+            "content": "VR headsets, especially the Meta Quest line, are fertile ground for a Wii-era revival. At a surface level, the Wii’s motion-control gimmick is pretty close to VR’s default means of interacting with v… [+6628 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Digital Trends"
+            },
+            "author": "Phil Nickinson",
+            "title": "Paramount serves ‘true sports fans,’ CEO says",
+            "description": "Paramount CEO Bob Bakish doesn't appear to be threatened by the upcoming sports streaming service led by three competitors.",
+            "url": "https://www.digitaltrends.com/home-theater/paramount-bakish-on-joint-sports-streaming-service/",
+            "urlToImage": "https://www.digitaltrends.com/wp-content/uploads/2024/02/paramount-sports.jpg?resize=1200%2C630&p=1",
+            "publishedAt": "2024-02-29T20:47:36Z",
+            "content": "Phil Nickinson / Digital Trends\r\nParamount may find itself in a bit of a weird spot when it comes to the upcoming super sports streaming service set to launch this fall. That is, that it’s not involv… [+2274 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Star Wars game cancelled as EA cuts 670 jobs",
+            "description": "Electronic Arts says it will focus on its existing titles, as the gaming industry job cuts continue.",
+            "url": "https://www.bbc.co.uk/news/technology-68434599",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/17C89/production/_132771479_mediaitem132771477.jpg",
+            "publishedAt": "2024-02-29T11:08:36Z",
+            "content": "Electronic Arts (EA) is cancelling an upcoming Star Wars game and will lay off 5% of its employees globally- approximately 670 people.\r\nThe game, which was in early development, would have been a fir… [+2846 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNET"
+            },
+            "author": "Eli Blumenthal",
+            "title": "You Only Need Two Apps to Stream All of March Madness This Year - CNET",
+            "description": "No cable? Not really a problem if you're looking to watch this year's college basketball tournament.",
+            "url": "https://www.cnet.com/tech/services-and-software/you-only-need-two-apps-to-stream-all-of-march-madness-this-year/",
+            "urlToImage": "https://www.cnet.com/a/img/resize/6b17b128f5929371cff384280584acd8a012f97c/hub/2024/03/07/4bc5ea36-95f9-47a8-9d9a-d9457998483f/gettyimages-1947759782.jpg?auto=webp&fit=crop&height=675&width=1200",
+            "publishedAt": "2024-03-11T13:00:04Z",
+            "content": "Watching March Madness hasn't always been easy. With games spread out across four networks -- CBS, TNT, TBS and TruTV -- you often would have had to pay for a cable, satellite or streaming TV package… [+1424 chars]"
+        },
+        {
+            "source": {
+                "id": "wired",
+                "name": "Wired"
+            },
+            "author": "Morgan Meaker",
+            "title": "AI Is Coming for the Experts. First, It Needs Their Help",
+            "description": "A new workforce of language experts, creative writers, and nuclear physicists are turning to data labor—and potentially making their future jobs obsolete in the process.",
+            "url": "https://www.wired.com/story/remotasks-ai-expert-data-labor/",
+            "urlToImage": "https://media.wired.com/photos/65cfc8cec687ac71b2c9b1c7/191:100/w_1280,c_limit/business_ai_experts_training_jobs.jpg",
+            "publishedAt": "2024-02-20T13:00:00Z",
+            "content": "Earning up to $60 per hour, Jay was an early recruit, joining Remotasks the month before OpenAI unveiled ChatGPT to the world. Since then, the platform has been accelerating its search for expert dat… [+2917 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "ReadWrite"
+            },
+            "author": "Brian-Damien Morgan",
+            "title": "Fanatics Sportsbook launches in New York State",
+            "description": "Fanatics, the licensed memorabilia manufacturer has launched its official sportsbook in New York state. The announcement comes from the subsidiary […]\nThe post Fanatics Sportsbook launches in New York State appeared first on ReadWrite.",
+            "url": "https://readwrite.com/fanatics-sportsbook-launches-in-new-york/",
+            "urlToImage": "https://readwrite.com/wp-content/uploads/2024/03/1-e1709299593360.jpg",
+            "publishedAt": "2024-03-01T14:49:05Z",
+            "content": "Fanatics, the licensed memorabilia manufacturer has launched its official sportsbook in New York state.\r\nThe announcement comes from the subsidiary of the clothing maker, Fanatics Betting and Gaming.… [+1960 chars]"
+        },
+        {
+            "source": {
+                "id": "wired",
+                "name": "Wired"
+            },
+            "author": "Anna Merlan",
+            "title": "Robert F. Kennedy Jr. Targets a Generation of Politically Disaffected, Extremely Online Men",
+            "description": "In a campaign that increasingly reflects a late night TikTok scroll, Robert F. Kennedy Jr. is gathering celebrities and influencers that appeal to a young male base.",
+            "url": "https://www.wired.com/story/robert-f-kennedy-jr-aaron-rodgers-male-vote/",
+            "urlToImage": "https://media.wired.com/photos/65f2ff1a9f86ee0288b77cdf/191:100/w_1280,c_limit/politics_rfk-jr-masculine-online-votes.jpg",
+            "publishedAt": "2024-03-14T13:53:41Z",
+            "content": "In his continued quest to become either the president of the United States or else a very interesting footnote to someone elses reelection, Robert F. Kennedy Jr. has enlisted a number of celebrities … [+3401 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC Sport",
+            "title": "Coe dismisses Enhanced Games as nonsense",
+            "description": "World Athletics president Lord Coe calls the proposed Enhanced Games, where doping is allowed, nonsense.",
+            "url": "https://www.bbc.co.uk/sport/athletics/68440268",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_sport/7825/production/_132775703_gettyimages-2039928291.jpg",
+            "publishedAt": "2024-02-29T18:19:44Z",
+            "content": "The Enhanced Games, a proposed Olympics-style event where doping is allowed, is nonsense, says World Athletics president Lord Coe.\r\nThe event, founded by Australian businessman Aron D'Souza in 2023, … [+1406 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Uncrate.com"
+            },
+            "author": "Uncrate",
+            "title": "Apple Sports",
+            "description": "There are dozens of solid sports apps on the iPhone. The majority show scores while also bombarding the user with news, dubious opinion pieces, rumors, and infuriating auto-play highlights. Apple Sports is designed to do one thing, and one thing...",
+            "url": "https://uncrate.com/apple-sports/",
+            "urlToImage": "https://uncrate.com/p/2024/02/apple-sports.jpg",
+            "publishedAt": "2024-02-21T19:00:01Z",
+            "content": "A backyard should be an extension of your home. The Hanso Aluminum Pergola Kit can transform unused decks and patios into an outdoor living spaces. Designed in Scandinavia, the pergola is clean and m… [+576 chars]"
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "David Pierce",
+            "title": "The 2024 Vergecast streaming draft",
+            "description": "From TikTok and Instagram to Netflix and Hulu to Prime Video and Apple TV Plus, the Vergecast crew picks the best streaming services in 2024 — and looks ahead to 2025.",
+            "url": "https://www.theverge.com/2024/3/12/24098343/best-streaming-services-2024-netflix-tiktok-max-disney-vergecast",
+            "urlToImage": "https://cdn.vox-cdn.com/thumbor/5hOIBDCuxlh1MnIDzu_CsObw1h4=/0x0:3000x2000/1200x628/filters:focal(1500x1000:1501x1001)/cdn.vox-cdn.com/uploads/chorus_asset/file/25331615/VST_0311_Site_Post.jpg",
+            "publishedAt": "2024-03-12T12:56:57Z",
+            "content": "The 2024 Vergecast streaming draft\r\nThe 2024 Vergecast streaming draft\r\n / What are the good streaming services? Why does Alex Cranz think Netflix is going to go away? What is Mubi, anyway? All the b… [+2616 chars]"
+        },
+        {
+            "source": {
+                "id": "polygon",
+                "name": "Polygon"
+            },
+            "author": "Nicole Carpenter",
+            "title": "Sifu, Destiny 2: The Witch Queen headline March PS Plus games",
+            "description": "Sony Interactive Entertainment announced the four games for March 2024’s PlayStation Plus roundup: Sifu, Destiny 2: The Witch Queen, Hello Neighbor 2, and EA Sports F1 23.",
+            "url": "https://www.polygon.com/24085769/march-playstation-plus-2024-free-games-sifu-destiny-2-witch-queen",
+            "urlToImage": "https://cdn.vox-cdn.com/thumbor/vi0A6vfDDU4dU9utqid8IrWnAXg=/0x0:1920x1005/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/22329476/sifu_old_fighter_1920.png",
+            "publishedAt": "2024-02-28T17:28:10Z",
+            "content": "Four new games will be added to Sony Interactive Entertainments PlayStation Plus lineup come March 5: EA Sports F1 23, Destiny 2: The Witch Queen, Sifu, and Hello Neighbor 2. All four games will be a… [+1797 chars]"
+        },
+        {
+            "source": {
+                "id": "espn",
+                "name": "ESPN"
+            },
+            "author": "Mark Schlabach",
+            "title": "Source: Horns QB Manning opts out of EA game",
+            "description": "Texas QB Arch Manning has opted out and will not be included in the EA Sports College Football 25 video game, a source confirmed to ESPN.",
+            "url": "https://www.espn.com/college-football/story/_/id/39659455/source-texas-arch-manning-opts-ea-sports-video-game",
+            "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fphoto%2F2023%2F0730%2Fr1204181_1296x729_16%2D9.jpg",
+            "publishedAt": "2024-03-05T18:12:01Z",
+            "content": "More than 10,000 college football players have already opted in for EA Sports College Football 25, which will launch this summer, but fans will have to wait at least another year for Texas quarterbac… [+1964 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "ReadWrite"
+            },
+            "author": "Graeme Hanna",
+            "title": "DraftKings confirms arrival into North Carolina gambling market",
+            "description": "DraftKings has announced the launch of its online sportsbook in North Carolina, as of 11 March 2024. A company press… Continue reading DraftKings confirms arrival into North Carolina gambling market\nThe post DraftKings confirms arrival into North Carolina gam…",
+            "url": "https://readwrite.com/draftkings-confirms-arrival-into-north-carolina-gambling-market/",
+            "urlToImage": "https://readwrite.com/wp-content/uploads/2024/03/pexels-andres-nino-19205520-scaled.jpg",
+            "publishedAt": "2024-03-08T15:01:53Z",
+            "content": "DraftKings has announced the launch of its online sportsbook in North Carolina, as of 11 March 2024.\r\nA company press release detailed the latest expansion for the gambling platform, representing its… [+1960 chars]"
+        },
+        {
+            "source": {
+                "id": "espn",
+                "name": "ESPN"
+            },
+            "author": null,
+            "title": "Betting charges vs. ISU athletes set to be dropped",
+            "description": "The prosecutor handling the sports wagering case against four former or suspended Iowa State athletes has asked a judge to dismiss all charges.",
+            "url": "https://www.espn.com/college-football/story/_/id/39632364/motion-filed-dismiss-charges-iowa-state-athletes",
+            "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fphoto%2F2024%2F0122%2Fr1281054_1296x729_16%2D9.jpg",
+            "publishedAt": "2024-03-01T19:38:54Z",
+            "content": "The prosecutor handling the sports wagering case against four former or suspended Iowa State athletes has asked a judge to dismiss all charges.\r\nIn a motion filed Friday in Story County District Cour… [+2344 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "ReadWrite"
+            },
+            "author": "Sophie Atkinson",
+            "title": "Sportradar match-fixing report highlights suspicious betting in Asia up 25%",
+            "description": "The annual integrity report from Sportrader has been released, with 1,329 suspicious matches detected across 2023 – with 880 coming […]\nThe post Sportradar match-fixing report highlights suspicious betting in Asia up 25% appeared first on ReadWrite.",
+            "url": "https://readwrite.com/sportradar-match-fixing-report-highlights-suspicious-betting-in-asia-up-25/",
+            "urlToImage": "https://readwrite.com/wp-content/uploads/2024/03/exdTkbSlSvSdtnh0tApODA.png",
+            "publishedAt": "2024-03-04T14:30:07Z",
+            "content": "The annual integrity report from Sportrader has been released, with 1,329 suspicious matches detected across 2023 – with 880 coming from football and a rise seen in Asia.\r\nTitled the Betting Corrupti… [+1888 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "ReadWrite"
+            },
+            "author": "Graeme Hanna",
+            "title": "FanDuel expands to 22nd state, confirms betting partnership with Carolina Panthers",
+            "description": "FanDuel has confirmed an official partnership with NFL side Carolina Panthers, as the state of North Carolina prepares to usher […]\nThe post FanDuel expands to 22nd state, confirms betting partnership with Carolina Panthers appeared first on ReadWrite.",
+            "url": "https://readwrite.com/fanduel-expands-to-22nd-state-confirms-betting-partnership-with-carolina-panthers/",
+            "urlToImage": "https://readwrite.com/wp-content/uploads/2024/03/panthers.jpeg",
+            "publishedAt": "2024-03-05T16:31:10Z",
+            "content": "FanDuel has confirmed an official partnership with NFL side Carolina Panthers, as the state of North Carolina prepares to usher in the beginning of the mobile sports betting market.\r\nThe launch is se… [+1931 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "ReadWrite"
+            },
+            "author": "Justin Colombo",
+            "title": "Betting Systems – How They Work and Which Ones Work Best",
+            "description": "You may have heard the term ‘betting system’ if you regularly wager at online sportsbooks. After all, this can incorporate […]\nThe post Betting Systems – How They Work and Which Ones Work Best appeared first on ReadWrite.",
+            "url": "https://readwrite.com/gambling/guides/betting-systems/",
+            "urlToImage": "https://readwrite.com/wp-content/uploads/2024/03/Bettng-Systems-1-scaled.jpg",
+            "publishedAt": "2024-03-04T08:39:23Z",
+            "content": "You may have heard the term ‘betting system’ if you regularly wager at online sportsbooks. After all, this can incorporate any number of rules and methodologies to help select your bets. These system… [+22783 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Kotaku"
+            },
+            "author": "Levi Winslow",
+            "title": "February’s Xbox Game Pass Offerings End Month With A Bang",
+            "description": "Microsoft has announced the final set of games that will close out February for Xbox Game Pass subscribers. This crop of titles offers a variety of genres, from anime-ass RPGs to open-world shark adventures to sports simulators. As usual, there’s a little som…",
+            "url": "https://kotaku.com/february-2024-xbox-game-pass-pc-tales-maneater-diablo-1851270452",
+            "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/91b335748fc028977f3795bddfa7e996.jpg",
+            "publishedAt": "2024-02-20T15:45:00Z",
+            "content": "Microsoft has announced the final set of games that will close out February for Xbox Game Pass subscribers. This crop of titles offers a variety of genres, from anime-ass RPGs to open-world shark adv… [+2765 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "Amy Skorheim",
+            "title": "Annual subscriptions to Max are currently 40 percent off",
+            "description": "If you're ready to commit to a year of Max, you can do so for a 40 percent discount. Right now, every tier of the streaming service is on sale — that includes the ad-free, 4K version for $140 annually, which works out to $12 per month instead of the regular $…",
+            "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_713ee82d-d4eb-400c-bc63-c2bf9696c4f9",
+            "urlToImage": null,
+            "publishedAt": "2024-03-14T22:23:39Z",
+            "content": "Si vous cliquez sur « Tout accepter », nos partenaires (y compris 241 qui font partie du Cadre de transparence et de consentement dIAB) et nous utiliserons également des témoins et vos données person… [+982 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "Kris Holt",
+            "title": "The Steam spring sale is here to raid your wallet",
+            "description": "It's that time of year once again. The Steam spring sale is now live. It's typically not as extensive as the summer and winter editions, and there's no Steam Deck discount this time, unfortunately, but there are still plenty of deals worth paying attention to…",
+            "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_aee4d53a-bee6-482a-b038-41554c4a25ec",
+            "urlToImage": null,
+            "publishedAt": "2024-03-14T17:51:09Z",
+            "content": "Si vous cliquez sur « Tout accepter », nos partenaires (y compris 241 qui font partie du Cadre de transparence et de consentement dIAB) et nous utiliserons également des témoins et vos données person… [+982 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNET"
+            },
+            "author": "Kevin Lynch",
+            "title": "Luton vs. Aston Villa Livestream: How to Watch English Premier League Soccer From Anywhere - CNET",
+            "description": "Villa are aiming to keep their top-four challenge on track as they head to Kenilworth Road.",
+            "url": "https://www.cnet.com/tech/services-and-software/luton-vs-aston-villa-livestream-how-to-watch-english-premier-league-soccer-from-anywhere/",
+            "urlToImage": "https://www.cnet.com/a/img/resize/93a04630819239d8f1c9cd92dfd736b8c9e5870f/hub/2024/02/29/f5f165e9-ee6d-4b6a-9929-2830d5dc6306/gettyimages-1928210775.jpg?auto=webp&fit=crop&height=675&width=1200",
+            "publishedAt": "2024-03-02T14:30:05Z",
+            "content": "Top-four chasing Aston Villa will be hoping to make it three English Premier League wins on the spin as they visit Luton Town on Saturday. \r\nVilla are currently in fourth place in the table in an all… [+8059 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Digital Trends"
+            },
+            "author": "Phil Nickinson",
+            "title": "Former Apple exec joins upcoming sports streaming service as CEO",
+            "description": "Pete Distad, who most recently ran video and sports for Apple, will be at the helm of the new joint venture sports streaming service when it launches in 2024.",
+            "url": "https://www.digitaltrends.com/home-theater/pete-distad-sports-streaming-service-ceo/",
+            "urlToImage": "https://www.digitaltrends.com/wp-content/uploads/2024/03/pete-distad.jpg?resize=1200%2C630&p=1",
+            "publishedAt": "2024-03-15T15:23:03Z",
+            "content": "Former Hulu and Apple executive Pete Distad will serve as CEO of the new sports streaming service from Disney, Fox, and Warner Bros. Discovery.Handout photo\r\nIt doesn’t have a name. It doesn’t have a… [+2050 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "ReadWrite"
+            },
+            "author": "Graeme Hanna",
+            "title": "FanDuel sportsbook set for exclusivity in DC",
+            "description": "FanDuel is set to arrive in Washington D.C. following displeasure at the performance of GambetDC in the city. The number… Continue reading FanDuel sportsbook set for exclusivity in DC\nThe post FanDuel sportsbook set for exclusivity in DC appeared first on Rea…",
+            "url": "https://readwrite.com/fanduel-sportsbook-set-for-exclusivity-in-dc/",
+            "urlToImage": "https://readwrite.com/wp-content/uploads/2024/03/capitol-scaled.jpeg",
+            "publishedAt": "2024-03-11T17:40:46Z",
+            "content": "FanDuel is set to arrive in Washington D.C. following displeasure at the performance of GambetDC in the city.\r\nThe number one sports gambling brand in the United States recently confirmed expansion t… [+2396 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "ReadWrite"
+            },
+            "author": "Graeme Hanna",
+            "title": "Crypto betting platform Lucky Block agrees deal with UFC hero Bisping",
+            "description": "Former UFC world champion Michael Bisping has signed a partnership agreement with crypto casino platform Lucky Block. The 44-year-old mixed […]\nThe post Crypto betting platform Lucky Block agrees deal with UFC hero Bisping appeared first on ReadWrite.",
+            "url": "https://readwrite.com/crypto-betting-platform-lucky-block-agrees-deal-with-ufc-hero-bisping/",
+            "urlToImage": "https://readwrite.com/wp-content/uploads/2024/02/GGfNRuAa0AAZvtQ.jpg",
+            "publishedAt": "2024-02-19T15:51:21Z",
+            "content": "Former UFC world champion Michael Bisping has signed a partnership agreement with crypto casino platform Lucky Block.\r\nThe 44-year-old mixed martial arts figure has said he will become an ambassador … [+2177 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Camilo Fonseca",
+            "title": "Bugatti CEO responds to Elon Musk's claim that Tesla Roadster will be able to do 0-60 mph in under a second",
+            "description": "Elon Musk says the new Tesla Roadster will have a record-breaking acceleration, but Bugatti's CEO warned that may require some design compromises.",
+            "url": "https://www.businessinsider.com/tesla-roadster-acceleration-records-bugatti-musk-rimac-2024-3",
+            "urlToImage": "https://i.insider.com/65e5f5f890413ab8e1d8d9db?width=1200&format=jpeg",
+            "publishedAt": "2024-03-04T21:06:29Z",
+            "content": "Elon Musk says the new Tesla Roadster will have a record-breaking acceleration, but exactly how is unclear.Tesla\r\n<ul><li>The new Tesla Roadster will be able to go from 0-60 mph in record time, accor… [+2584 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": null,
+            "title": "Fly-half Costelow returns for Wales trip to Dublin",
+            "description": "Sam Costelow is back at fly-half as Wales' only starting change for their Six Nations trip to face Ireland in Dublin on Saturday.",
+            "url": "https://www.bbc.co.uk/sport/rugby-union/68331745",
+            "urlToImage": "https://ichef.bbci.co.uk/live-experience/cps/624/cpsprodpb/6106/production/_132683842__124395519_bbcbreakingnewsgraphicindex.jpg",
+            "publishedAt": "2024-02-20T11:00:02Z",
+            "content": "<table><tr><th>Guinness Six Nations: Ireland v Wales</th></tr>\r\n<tr><td>Venue: Aviva Stadium, Dublin Date: Saturday, 24 February Kick-off: 14:15 GMT</td></tr><tr><td>Coverage: Watch live on S4C; List… [+2477 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Two more charged over shooting at Super Bowl parade",
+            "description": "The two men are believed to have been in an argument that led to gunfire during the Kansas City parade.",
+            "url": "https://www.bbc.co.uk/news/world-us-canada-68355095",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/59CD/production/_132698922_gettyimages-2011358286.jpg",
+            "publishedAt": "2024-02-20T20:50:04Z",
+            "content": "Two men have been charged with murder for last week's deadly shooting at a Super Bowl victory parade in Kansas City, prosecutors said. \r\nA woman died and 22 others were injured during the shooting, w… [+2049 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": null,
+            "title": "Prosecutors demand near five-year Ancelotti sentence",
+            "description": "Spanish prosecutors call for Real Madrid boss Carlo Ancelotti to be jailed for four years and nine months for avoiding 1m euros (£854,000) in tax.",
+            "url": "https://www.bbc.co.uk/sport/football/68490581",
+            "urlToImage": "https://ichef.bbci.co.uk/live-experience/cps/624/cpsprodpb/95A1/production/_132850383_gettyimages-2060602189-1.jpg",
+            "publishedAt": "2024-03-06T14:59:54Z",
+            "content": "Carlo Ancelotti is the only manager to have won the Champions League four times, twice with Real Madrid and twice with AC Milan\r\nProsecutors in Spain have called for Real Madrid manager Carlo Ancelot… [+2125 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "ReadWrite"
+            },
+            "author": "Paul McNally",
+            "title": "EAFC 24 Spring Update: Mega patch brings new faces and animations along with AI improvements",
+            "description": "There’s a big patch incoming for EAFC 24, probably the last before it gets put out to pasture and we… Continue reading EAFC 24 Spring Update: Mega patch brings new faces and animations along with AI improvements\nThe post EAFC 24 Spring Update: Mega patch brin…",
+            "url": "https://readwrite.com/eafc-24-spring-update-mega-patch-brings-new-faces-and-animations-along-with-ai-improvements/",
+            "urlToImage": "https://readwrite.com/wp-content/uploads/2024/03/juve.jpg",
+            "publishedAt": "2024-03-13T14:13:52Z",
+            "content": "Theres a big patch incoming for EAFC 24, probably the last before it gets put out to pasture and we have to begin all over again in the Fall.\r\nThe Spring Update will be the 11th patch since the game … [+3134 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNET"
+            },
+            "author": "Kevin Lynch",
+            "title": "Man City vs. Man United Livestream: How to Watch English Premier League Soccer From Anywhere - CNET",
+            "description": "It's a huge derby clash at the Etihad Stadium.",
+            "url": "https://www.cnet.com/tech/services-and-software/man-city-vs-man-united-livestream-how-to-watch-english-premier-league-soccer-from-anywhere/",
+            "urlToImage": "https://www.cnet.com/a/img/resize/7e2ca928c402815285b50f4fe6e951b2ad7dc216/hub/2024/02/29/af32c340-c599-4f1e-a097-2e5e705b97b6/gettyimages-2030476857.jpg?auto=webp&fit=crop&height=675&width=1200",
+            "publishedAt": "2024-03-03T12:30:04Z",
+            "content": "Man United will be hoping to dent their local rivals Man City's challenge for an unprecedented fourth English Premier League title as they make the short trip to the Etihad Stadium for this mouth-wat… [+7941 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "Kiara Alfonseca",
+            "title": "Nassau County executive sues NY AG over order to repeal trans sports ban",
+            "description": "Nassau County Executive Bruce Blakeman filed a lawsuit against New York Attorney General Letitia James after she threatened legal action over its transgender sports ban.",
+            "url": "https://abcnews.go.com/US/nassau-county-executive-sues-ny-ag-order-repeal/story?id=107935294",
+            "urlToImage": "https://i.abcnewsfe.com/a/a4029fb5-a485-4881-b72c-83d78008595d/bruce-blakeman-ap-thg-240308_1709905192079_hpMain_16x9.jpg?w=1600",
+            "publishedAt": "2024-03-08T23:42:28Z",
+            "content": "Nassau County Executive Bruce Blakeman has filed a lawsuit against New York Attorney General Letitia James after she threatened legal action over the county's recent anti-transgender sports ban.\r\nThe… [+5162 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "Kiara Alfonseca",
+            "title": "New York AG sends cease-and-desist over transgender sports ban in Nassau County",
+            "description": "The AG's office argues that the order is \"in clear violation of New York State anti-discrimination laws and demands that it be immediately rescinded.\"",
+            "url": "https://abcnews.go.com/US/new-york-attorney-general-letitia-james-sends-cease/story?id=107742134",
+            "urlToImage": "https://i.abcnewsfe.com/a/8469ce71-993d-46db-8f9b-c5ba9362b41b/letitia-james-ap-lv-240302_1709393060355_hpMain_16x9.jpg?w=1600",
+            "publishedAt": "2024-03-02T19:04:43Z",
+            "content": "The New York Attorney General's Office sent a cease-and-desist letter to Nassau County over its recent anti-transgender sports ban.\r\n\"The Orders immediate effect is to force sports leagues to make an… [+4511 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "9to5Mac"
+            },
+            "author": "Zac Hall",
+            "title": "Former Apple TV deal maker named CEO of ESPN/WBD/FOX sports bundle service",
+            "description": "You may recall the recently announced but unnamed sports streaming service from ESPN, Warner Brothers, and Fox. It turns out a former Apple sports deal maker will run the bundle.\n\n\n\n more…",
+            "url": "https://9to5mac.com/2024/03/15/apple-sports-bundle/",
+            "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2024/02/mls-vp.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+            "publishedAt": "2024-03-15T15:26:57Z",
+            "content": "You may recall the recently announced but unnamed sports streaming service from ESPN, Warner Brothers, and Fox. It turns out a former Apple sports deal maker will run the bundle.\r\nThe Hollywood Repor… [+1003 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "Kiara Alfonseca",
+            "title": "Nassau County announces ban on trans women from competing in women's sports",
+            "description": "Nassau County officials announced an executive order to ban transgender athlete's from competing in events aligning with their gender identity county-run facilities.",
+            "url": "https://abcnews.go.com/US/nassau-county-announces-ban-trans-women-competing-womens/story?id=107453575",
+            "urlToImage": "https://i.abcnewsfe.com/a/c9535710-a034-4a21-9fe6-3dbe96af7fe7/bruce-blakeman-gty-thg-240222_1708622394768_hpMain_16x9.jpg?w=1600",
+            "publishedAt": "2024-02-23T01:14:13Z",
+            "content": "Republican Nassau County Executive Bruce Blakeman announced Thursday that he will use an executive order to ban transgender athletes from competing in events aligning with their gender identity in co… [+3436 chars]"
+        },
+        {
+            "source": {
+                "id": "ign",
+                "name": "IGN"
+            },
+            "author": "Taylor Lyles",
+            "title": "EA Sports Reveals College Football 25 Player Compensation, New Game Details, and More",
+            "description": "EA Sports has shared a ton of new information on College Football 25 ahead of its full reveal in May.",
+            "url": "https://www.ign.com/articles/ea-sports-college-football-25-player-compensation-revealed",
+            "urlToImage": "https://assets-prd.ignimgs.com/2024/02/15/college-football-25-1708016154537.png?width=1280",
+            "publishedAt": "2024-02-22T14:54:42Z",
+            "content": "While we have to wait until May for a full reveal of College Football 25, EA Sports shared some new details, including how much players will get compensated, what will and won't be included in the ga… [+2449 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Digital Trends"
+            },
+            "author": "Tomas Franzese",
+            "title": "You need to check out this killer action game on PS Plus this month",
+            "description": "PS Plus subscribers can claim three free games this month, including 2022's best (and deadliest) sports game.",
+            "url": "https://www.digitaltrends.com/gaming/rollerdrome-ps-plus-recommendation/",
+            "urlToImage": "https://www.digitaltrends.com/wp-content/uploads/2022/07/Rollerdrome-2.jpg?resize=1200%2C630&p=1",
+            "publishedAt": "2024-02-18T14:30:56Z",
+            "content": "Private Division\r\nOf the three games available for no additional cost with a PlayStation Plus Essential subscription this February, the best game isn’t the highest-profile one. A lot of attention is … [+4014 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "MarketWatch"
+            },
+            "author": "Jon Swartz",
+            "title": "FuboTV sues to block ESPN, Warner, Fox sports-streaming venture",
+            "description": "FuboTV filed a lawsuit Tuesday to block a new sports-streaming joint venture scheduled to premiere this fall, claiming the ESPN-Warner Bros. Discovery-Fox juggernaut would squeeze Fubo’s ability to carry a small bundle of sports-focused channels that the vent…",
+            "url": "https://www.marketwatch.com/story/fubotv-sues-to-block-espn-warner-fox-sports-streaming-venture-e32ee8e2",
+            "urlToImage": "https://images.mktw.net/im-337590/social",
+            "publishedAt": "2024-02-20T20:38:00Z",
+            "content": "FuboTV filed a lawsuit Tuesday to block a new sports-streaming joint venture scheduled to premiere this fall, claiming the ESPN-Warner Bros. Discovery-Fox juggernaut would squeeze Fubos ability to ca… [+1898 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "AppleInsider"
+            },
+            "author": "news@appleinsider.com (William Gallagher)",
+            "title": "Apple brings live scores to new Apple Sports app",
+            "description": "Apple has announced the release of a new, free Apple Sports app for iOS, which displays real-time scores and statistics for MLS, NBA and more.The new Apple Sports app presents a scoreboard of results (source: Apple)Sports results are already a popular use of …",
+            "url": "https://appleinsider.com/articles/24/02/21/apple-brings-live-scores-to-new-apple-sports-app",
+            "urlToImage": "https://photos5.appleinsider.com/gallery/58679-119594-000-lead-Apple-Sports-xl.jpg",
+            "publishedAt": "2024-02-21T14:21:14Z",
+            "content": "The new Apple Sports app presents a scoreboard of results (source: Apple)\r\nApple has announced the release of a new, free Apple Sports app for iOS, which displays real-time scores and statistics for … [+1422 chars]"
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Victoria Song",
+            "title": "The OnePlus Watch 2 is a bid to redeem its smartwatch reputation",
+            "description": "OnePlus announced the $299.99 OnePlus Watch 2 at MWC 2024. It has a dual-engine chip architecture and will run on Wear OS 4.",
+            "url": "https://www.theverge.com/2024/2/26/24081216/one-plus-watch-2-wear-os-4-mwc-2024",
+            "urlToImage": "https://cdn.vox-cdn.com/thumbor/lVnjI8waYj-AvLmimIaF0fMK_oE=/0x0:8192x5464/1200x628/filters:focal(4096x2732:4097x2733)/cdn.vox-cdn.com/uploads/chorus_asset/file/25301200/Lifestyle_4.jpg",
+            "publishedAt": "2024-02-26T15:00:00Z",
+            "content": "The OnePlus Watch 2 is a bid to redeem its smartwatch reputation\r\nThe OnePlus Watch 2 is a bid to redeem its smartwatch reputation\r\n / The original OnePlus Watch was hands down the worst smartwatch I… [+4241 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Slashdot.org"
+            },
+            "author": "msmash",
+            "title": "Cable And Satellite Providers Required To Disclose 'All In' Pricing Under Newly Passed FCC Rules",
+            "description": "The FCC passed new rules that will require cable and satellite providers to clearly disclose the \"all in\" price of subscriptions in promotional materials. From a report: \"The advertised price for a service should be the price you pay when your bill arrives,\" …",
+            "url": "https://tech.slashdot.org/story/24/03/15/153240/cable-and-satellite-providers-required-to-disclose-all-in-pricing-under-newly-passed-fcc-rules",
+            "urlToImage": "https://a.fsdn.com/sd/topics/communications_64.png",
+            "publishedAt": "2024-03-15T16:01:00Z",
+            "content": "\"The advertised price for a service should be the price you pay when your bill arrives,\" FCC Chairwoman Jessica Rosenworcel said. \"It shouldn't include a bunch of unexpected junk fees that are separa… [+633 chars]"
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Sheena Vasani",
+            "title": "You can now preorder the new M3-powered MacBook Air",
+            "description": "Apple’s M3-powered MacBook Airs start shipping on March 8th, but they’re already available for preorder. Here’s what you should know about both the 13- and 15-inch models.",
+            "url": "https://www.theverge.com/24090194/apple-m3-macbook-air-13-15-inch-2024-preorder-how-to-buy-release-date-price",
+            "urlToImage": "https://cdn.vox-cdn.com/thumbor/jpk-FhSV3aZmPpHRHFcLgdpdZXw=/0x0:1960x1102/1200x628/filters:focal(980x551:981x552)/cdn.vox-cdn.com/uploads/chorus_asset/file/25317890/Apple_MacBook_Air_lifestyle_gaming_240304_big.jpg.large_2x.jpg",
+            "publishedAt": "2024-03-04T19:03:14Z",
+            "content": "You can now preorder the new M3-powered MacBook Air\r\nYou can now preorder the new M3-powered MacBook Air\r\n / The 13- and 15-inch MacBook Air start at $1,099 and $1,299, respectively.\r\nBySheena Vasani… [+3432 chars]"
+        },
+        {
+            "source": {
+                "id": "le-monde",
+                "name": "Le Monde"
+            },
+            "author": "Service Sports",
+            "title": "Paris 2024 : pour le ministre des sports russe, son pays ne doit pas boycotter les Jeux",
+            "description": "« Nous devons, autant que possible, préserver la possibilité de dialoguer et de participer à des compétitions », a estimé Oleg Matytsine, alors que les conditions de neutralité imposées par le CIO aux athlètes du pays ont provoqué l’ire de Moscou.",
+            "url": "https://www.lemonde.fr/sport/article/2024/03/13/paris-2024-pour-le-ministre-des-sports-russe-son-pays-ne-doit-pas-boycotter-les-jeux_6221757_3242.html",
+            "urlToImage": "https://img.lemde.fr/2024/03/11/0/31/4438/2959/1440/960/60/0/735b2f9_7c03024661464c1eb95eeac91bd36bdf-1-061ca8510a77470680bd2e81851b5649.jpg",
+            "publishedAt": "2024-03-13T10:00:28Z",
+            "content": "La Russie enverra-t-elle des athlètes aux Jeux olympiques et paralympiques de Paris (du 26 juillet au 11 août, puis du 28 août au 8 septembre) ? Ou décidera-t-elle de renoncer à prendre part à la gra… [+6353 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Slate Magazine"
+            },
+            "author": "Josh Levin, Joel Anderson, and Stefan Fatsis",
+            "title": "Caitlin Clark Hasn’t Broken the Women’s Basketball Scoring Record (Yet)",
+            "description": "The AIAW’s Lynette Woodard and Pearl Moore deserve respect and attention.",
+            "url": "https://slate.com/podcasts/hang-up-and-listen/2024/02/court-storming-womens-basketball-records-and-the-ncaas-legal-trouble-on-hang-up-and-listen",
+            "urlToImage": "https://compote.slate.com/images/98352922-2f92-4060-a8ee-40832dc1f4a0.jpeg?width=1560&rect=1560x1040&offset=0x0",
+            "publishedAt": "2024-02-27T00:00:00Z",
+            "content": "Joel Anderson, Stefan Fatsis, and Josh Levin discuss whether court-storming should be banned for good. The Washington Posts Sally Jenkins also joins to explain why she believes the NCAA is cheapening… [+1656 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Digital Trends"
+            },
+            "author": "Albert Bassili",
+            "title": "Save $500 on this stunning 75-inch mini-LED TV at Best Buy",
+            "description": "If you want a high-end and versatile TV for sports, movies, or gaming, then this deal on the 75-inch TCL QM8 Series is perfect.",
+            "url": "https://www.digitaltrends.com/home-theater/75-inch-tcl-qm8-series-deal-best-buy-february-2024/",
+            "urlToImage": "https://www.digitaltrends.com/wp-content/uploads/2023/01/TCL-2023-QM8-98-inch-4k-mini-led-qled-tv-1.jpeg?resize=1200%2C630&p=1",
+            "publishedAt": "2024-02-26T16:29:58Z",
+            "content": "TCL / TCL\r\nIf you’re big into watching sports, then you’ll probably want to grab yourself a large TV, especially if you enjoy hosting game nights for friends and need something for a larger living ro… [+2311 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Digital Trends"
+            },
+            "author": "Dan Girolamo",
+            "title": "3 great action movies on Tubi you need to watch in February",
+            "description": "Tubi has a great selection of action movies. Watch these three action films in February, including a shark thriller and an underrated sports drama.",
+            "url": "https://www.digitaltrends.com/movies/watch-action-movies-tubi-in-february-2024/",
+            "urlToImage": "https://www.digitaltrends.com/wp-content/uploads/2024/02/Mr.-and-Mrs.-Smith-e1708350712564.jpg?resize=1200%2C630&p=1",
+            "publishedAt": "2024-02-20T18:00:46Z",
+            "content": "20th Century Fox\r\nIf you’re not on Tubi, what are you waiting for? Since Tubi is a FAST service, subscribers can access 50,000 movies and TV shows for free with ads. With the rising costs of streamin… [+3098 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Digital Trends"
+            },
+            "author": "Phil Nickinson",
+            "title": "The upcoming sports streaming service is a textbook case of a ‘trollout’",
+            "description": "Information about a major new sports streaming service continues to be released in dribs and drabs, which doesn't really help anyone.",
+            "url": "https://www.digitaltrends.com/home-theater/super-sports-streaming-service-trollout/",
+            "urlToImage": "https://www.digitaltrends.com/wp-content/uploads/2024/03/espn-sports.jpg?resize=1200%2C630&p=1",
+            "publishedAt": "2024-03-10T14:30:03Z",
+            "content": "Phil Nickinson / Digital Trends\r\nThere’s a phenomenon in the phone world that’s as smart as it is frustrating. That’s the one where a company announces an exciting new feature, only to eventually not… [+4309 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "Lawrence Bonk",
+            "title": "March's PlayStation Plus games include Sifu and the Destiny 2: Witch Queen expansion",
+            "description": "It’s that time of the month again. Sony just revealed the PlayStation Plus games lineup for March.\r\n There are some decent gets here, including the Destiny 2: Witch Queen expansion and the well-reviewed action brawler \r\nSifu.\r\n All four titles are available f…",
+            "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_5d2d0a1b-8a89-48bb-a567-82d156bc5143",
+            "urlToImage": null,
+            "publishedAt": "2024-02-28T17:49:06Z",
+            "content": "Si vous cliquez sur « Tout accepter », nos partenaires (y compris 241 qui font partie du Cadre de transparence et de consentement dIAB) et nous utiliserons également des témoins et vos données person… [+982 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Digital Trends"
+            },
+            "author": "Phil Nickinson",
+            "title": "The [redacted] bits are the best part of Fubo’s sports streamer lawsuit",
+            "description": "Fubo alleges illegal business practices kept it from being able to compete with the likes of YouTube TV and others. But the lawsuit keeps the details a secret.",
+            "url": "https://www.digitaltrends.com/home-theater/fubo-lawsuit-disney-fox-warner-bros-discovery/",
+            "urlToImage": "https://www.digitaltrends.com/wp-content/uploads/2021/11/fubotv-icon-1.jpg?resize=1200%2C630&p=1",
+            "publishedAt": "2024-02-21T21:18:12Z",
+            "content": "Fubo\r\nFubo has poked the bear. Three bears, actually, in filing a federal antitrust lawsuit against an upcoming joint venture (known as a JV for obvious reasons) that sees Disney, Fox, and Warner Bro… [+4218 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC Sport",
+            "title": "Moore retired after 'car crash victim' MRI result",
+            "description": "Jamie Moore retired from horse racing on medical grounds after a fall at Lingfield in 2023.",
+            "url": "https://www.bbc.co.uk/sport/horse-racing/68385127",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_sport/7816/production/_132724703_gettyimages-464116838.jpg",
+            "publishedAt": "2024-02-23T17:45:15Z",
+            "content": "Jockey Jamie Moore says he had no option but to retire after doctors told him his MRI scan results looked like those of a \"car crash victim\". \r\nThe 39-year-old retired in mid-February on medical grou… [+2707 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "MacRumors"
+            },
+            "author": "Hartley Charlton",
+            "title": "Apple Reportedly Testing AI-Powered Ad Technology",
+            "description": "Apple has begun testing a new AI-powered tool with a small group of advertisers that automatically decides where to place ads on the App Store, Business Insider reports.\n\n\n\n\n\nCiting two individuals familiar with the matter, Business Insider claims that the AI…",
+            "url": "https://www.macrumors.com/2024/03/12/apple-testing-ai-ad-tool/",
+            "urlToImage": "https://images.macrumors.com/t/fvnq7lgIjn-BQ5WsIW1FtaA-BEg=/2250x/article-new/2022/01/iOS-App-Store-General-Feature-Black.jpg",
+            "publishedAt": "2024-03-12T13:58:57Z",
+            "content": "Apple has begun testing a new AI-powered tool with a small group of advertisers that automatically decides where to place ads on the App Store, Business Insider reports.\r\nCiting two individuals famil… [+1106 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yanko Design"
+            },
+            "author": "Ida Torres",
+            "title": "BMW uses 3D printing for German bobsleigh team’s footwear",
+            "description": "BMW uses 3D printing for German bobsleigh team’s footwearMost sports are dictated by the skill and prowess of the athletes competing but there are also some sports where the sportswear and footwear that...",
+            "url": "https://www.yankodesign.com/2024/03/12/bmw-uses-3d-printing-for-german-bobsleigh-teams-footwear/",
+            "urlToImage": "https://www.yankodesign.com/images/design_news/2024/03/bmw-uses-3d-printing-for-german-bobsleigh-teams-footwear/1.jpg",
+            "publishedAt": "2024-03-12T10:07:54Z",
+            "content": "Most sports are dictated by the skill and prowess of the athletes competing but there are also some sports where the sportswear and footwear that they wear can contribute to how they perform. But not… [+1740 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNET"
+            },
+            "author": "Kevin Lynch",
+            "title": "Watch Champions League Soccer: Livestream Barcelona vs. Napoli From Anywhere - CNET",
+            "description": "Catalan giants take on the Neapolitans after the two sides played out a 1-1 draw last month.",
+            "url": "https://www.cnet.com/tech/services-and-software/watch-champions-league-soccer-livestream-barcelona-vs-napoli-from-anywhere/",
+            "urlToImage": "https://www.cnet.com/a/img/resize/db3ce0302ff69bf63fd986541031f3eb5a30fd6b/hub/2024/03/12/fb7c23b3-6eb3-42cb-a71b-8041626dc77c/gettyimages-2003456938.jpg?auto=webp&fit=crop&height=675&width=1200",
+            "publishedAt": "2024-03-12T17:00:50Z",
+            "content": "Barcelona host Napoli in this finely poised Champions League last-16, second-leg clash at the Lluís Companys Olympic Stadium. \r\nLast month's first leg at the Stadio Diego Armando Maradona saw Victor … [+4801 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNET"
+            },
+            "author": "Kevin Lynch",
+            "title": "Watch Champions League Soccer: Livestream Arsenal vs. FC Porto From Anywhere - CNET",
+            "description": "The Gunners look to reach the UCL quarter-final stage for the first time since 2010.",
+            "url": "https://www.cnet.com/tech/services-and-software/watch-champions-league-soccer-livestream-arsenal-vs-fc-porto-from-anywhere/",
+            "urlToImage": "https://www.cnet.com/a/img/resize/c29bba19b21ac9f974a7c03ae75885aeccf40f3f/hub/2024/03/12/942f114f-3cb1-4d9e-a976-1d6564dcd354/gettyimages-2028633150.jpg?auto=webp&fit=crop&height=675&width=1200",
+            "publishedAt": "2024-03-12T17:00:40Z",
+            "content": "Arsenal hope of reaching the Champions League quarter-finals are in the balance as they look to overturn a one goal deficit at home to Porto today at the Emirates Stadium. \r\nThe Gunners were left stu… [+4921 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Makezine.com"
+            },
+            "author": "Caleb Kraft",
+            "title": "Hackster’s Build2Gether Contest Is Back, Helping With Inclusivity",
+            "description": "Hackster is back at it again, their Build2Gether contest has returned for a 2nd year. Last year’s contest had all kinds of interesting projects and concepts, I’m very eager to see what this year turns up. This year they’ve got 200 boxes of hardware to meter o…",
+            "url": "https://makezine.com/article/maker-news/hacksters-build2gether-contest-is-back-helping-with-inclusivity/",
+            "urlToImage": "https://makezine.com/wp-content/uploads/2024/03/FB-1024x768.png",
+            "publishedAt": "2024-03-04T16:00:00Z",
+            "content": "Hackster is back at it again, their Build2Gether contest has returned for a 2nd year. Last year’s contest had all kinds of interesting projects and concepts, I’m very eager to see what this year turn… [+1211 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "ReadWrite"
+            },
+            "author": "Justin Colombo",
+            "title": "Point Spread Betting – How to Master Betting on Point Spreads",
+            "description": "Point spread betting comes in all shapes and sizes, not just game outright odds. Top online sportsbooks will offer odds […]\nThe post Point Spread Betting – How to Master Betting on Point Spreads appeared first on ReadWrite.",
+            "url": "https://readwrite.com/gambling/guides/point-spread-betting/",
+            "urlToImage": "https://readwrite.com/wp-content/uploads/2024/02/Point-Spread-Betting-scaled.jpg",
+            "publishedAt": "2024-02-29T11:26:57Z",
+            "content": "Point spread betting comes in all shapes and sizes, not just game outright odds. Top online sportsbooks will offer odds on things like the number of touchdowns a player will score in a game, the numb… [+7625 chars]"
+        },
+        {
+            "source": {
+                "id": "le-monde",
+                "name": "Le Monde"
+            },
+            "author": "Mouna El Mokhtari",
+            "title": "Amélie Oudéa-Castéra réclame l’émergence d’un « modèle français » de gestion des supporteurs, articulant sanctions fermes et prévention",
+            "description": "Lors d’un colloque au Sénat réunissant tous les acteurs du supportérisme, lundi, la ministre des sports a appelé à une « réponse globale et efficace », d’ici à la fin de la saison, aux faits de violence dans le football.",
+            "url": "https://www.lemonde.fr/sport/article/2024/03/11/amelie-oudea-castera-reclame-l-emergence-d-un-modele-francais-de-gestion-des-supporteurs-articulant-sanctions-fermes-et-prevention_6221417_3242.html",
+            "urlToImage": "https://img.lemde.fr/2024/03/07/0/0/8640/5760/1440/960/60/0/82ecaa4_2121799f6106448d96292b0e50530b83-0-30da363eea1d419eb21eda16eda6f711.jpg",
+            "publishedAt": "2024-03-11T19:01:20Z",
+            "content": "Des fans de lOlympique de Marseille, en amont dun match de Ligue Europa contre Villarreal, le 7 mars 2024 à Marseille. DANIEL COLE / AP\r\nFace aux phénomènes de violence, dans et en dehors des stades … [+4055 chars]"
+        },
+        {
+            "source": {
+                "id": "le-monde",
+                "name": "Le Monde"
+            },
+            "author": "Philippe Le Coeur",
+            "title": "Financement du sport : une partie des coupes dans les crédits affectera les équipements destinés aux écoles",
+            "description": "Pour parvenir à 50,5 millions d’euros d’économies, le ministère des sports se passera de sa réserve de précaution (33 millions). Il réduira aussi les aides prévues pour 1 500 équipements sportifs destinés aux cours d’école.",
+            "url": "https://www.lemonde.fr/sport/article/2024/03/14/financement-du-sport-une-partie-des-coupes-dans-les-credits-affectera-les-equipements-destines-aux-ecoles_6222023_3242.html",
+            "urlToImage": "https://img.lemde.fr/2024/03/11/0/0/4866/3244/1440/960/60/0/b2e141c_5886748-01-06.jpg",
+            "publishedAt": "2024-03-14T14:53:32Z",
+            "content": "La ministre des sports et des Jeux olympiques et paralympiques (JOP), Amélie Oudéa-Castéra, présentera vendredi 15 mars, lors dun conseil dadministration de lAgence nationale du sport, le détail des … [+2610 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "heise online"
+            },
+            "author": "Ben Schwan",
+            "title": "Neue Sports-App: Apple liefert Liga-Daten und Play-by-Play",
+            "description": "Apple hat am Mittwoch unverhofft eine neue App fürs iPhone freigegeben – mit spitzer Zielgruppe. Wer sie hierzulande ausprobieren möchte, muss aber tricksen.",
+            "url": "https://www.heise.de/news/Neue-Sports-App-Apple-liefert-Liga-Daten-und-Play-by-Play-9635509.html",
+            "urlToImage": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/4/5/4/6/1/4/8/applesports-9ce071c0900423a0.png",
+            "publishedAt": "2024-02-22T09:57:00Z",
+            "content": "Apple interessiert sich zunehmend für das Sportgeschäft. Nach TV-Deals mit US-Baseball-Ligen und dem örtlichen Topfußball hat der iPhone-Hersteller nun eine kostenlose neue App nur für dieses Thema v… [+2247 chars]"
+        }
+    ]
+}
